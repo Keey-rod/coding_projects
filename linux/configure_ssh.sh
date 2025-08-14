@@ -1,4 +1,5 @@
 #!/bin/bash
+# Configure SSH certificate for user to enable passwordless login to local environment 
 
 # Create directory for ssh 
 # Generate new ssh certifcate 
