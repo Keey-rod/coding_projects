@@ -1,6 +1,6 @@
 #!/bin/bash
 # ------------------------------------------------------------
-# Script: confiure_ssh.sh
+# Script: configure_ssh.sh
 # Purpose: Automates the setup of SSH certificates for 
 #          passwordless login to the local environment.
 # ------------------------------------------------------------
